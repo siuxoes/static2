@@ -5,6 +5,8 @@ from flask import request
 
 app = Flask(__name__)
 
+print()
+
 listaPeliculasObject = []
 addMore = True
 nombreActores = []
